@@ -14,3 +14,5 @@ This data analysis project aims to provide insights into the sales performance o
 
 Average Purchase Amount by State with No Subscription Status Classified by Gender Interactive Tableau Dashboard can be found [here](https://public.tableau.com/views/Chapter3Clustersegmentationmap/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+
+![Average Values of Bses by Segment](https://github.com/user-attachments/assets/43d6d9ed-a600-4872-8cef-013c34b1b164)
