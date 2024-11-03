@@ -51,3 +51,7 @@ seg$Purchase.Amount..USD., seg$Location, seg$Size, seg$Color), 7)
 # Export data to a CSV file
 write.csv(segmentation_result, file = file.choose(new=TRUE), row.names = FALSE) ## Name file segmentation_result.csv
 ```
+### Results/Findings
+
+Based on the data analysis, several insights can be drawn regarding subscription status, gender, and purchasing behavior:
+
