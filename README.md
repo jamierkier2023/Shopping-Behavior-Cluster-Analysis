@@ -71,7 +71,8 @@ Another limitation is the potential for outdated or incomplete data, which may n
    ### References
  
 1. [Essentials of Marketing Analytics](https://https://www.google.com/books/edition/_/Y1bbzQEACAAJ?hl=en), First Edition by Joseph H. Hair, Jr. & Dana E. Harrison.
-2. [Marketing Analytics: Based on First Principles](www.google.com/https://www.bloomsbury.com/uk/marketing-analytics-9781352013191/), Robert W. Palmatier (Author) , J. Andrew Petersen (Author) , Frank Germann (Author)
+2. [Marketing Analytics: Based on First Principles](https://www.google.com/books/edition/Marketing_Analytics/NoTCzgEACAAJ?hl=en), Robert W. Palmatier (Author) , J. Andrew 
+   Petersen (Author) , Frank Germann (Author)
 
 🙂
 💻
