@@ -16,3 +16,7 @@ Average Purchase Amount by State with No Subscription Status Classified by Gende
 
 
 ![Average Values of Bses by Segment](https://github.com/user-attachments/assets/43d6d9ed-a600-4872-8cef-013c34b1b164)
+
+![Average Values of Descriptors by Segment](https://github.com/user-attachments/assets/8046d0d3-36b8-4142-afb1-af7895edd738)
+
+![Number of Prospects in Each Segment by Gender](https://github.com/user-attachments/assets/688949e3-204d-4045-9920-b174dc7fa9fe)
