@@ -66,3 +66,11 @@ Based on the analysis of consumer segments, several recommendations emerge for t
 
 This analysis has certain limitations that may affect the generalizability and precision of the findings. First, the data relies on aggregated average values across segments, which could obscure individual differences within each group. While segments are helpful for targeting groups with similar behaviors and demographics, they may overlook nuanced variations in customer preferences and purchasing behaviors within each segment. Additionally, some key variables, such as “Avg. Category” and “Avg. Color,” may be too broad to provide actionable insights for product-specific marketing, limiting the granularity of recommendations. The use of descriptors like average purchase amount and review rating also introduces a degree of variability, as these averages may not accurately reflect high- or low-end consumer spending patterns.
 Another limitation is the potential for outdated or incomplete data, which may not account for evolving consumer preferences or recent economic changes affecting retail behavior. Since this dataset represents a snapshot in time, it may not fully capture trends like seasonal shifts in buying behavior, the impact of online shopping on consumer habits, or economic factors such as inflation.
+
+### References
+ 
+1. [Essentials of Marketing Analytics](https://https://www.google.com/books/edition/_/Y1bbzQEACAAJ?hl=en), First Edition by Joseph H. Hair, Jr. & Dana E. Harrison.
+2. [Marketing Analytics: Based on First Principles](www.google.com/https://www.bloomsbury.com/uk/marketing-analytics-9781352013191/), Robert W. Palmatier (Author) , J. Andrew Petersen (Author) , Frank Germann (Author)
+
+🙂
+💻
