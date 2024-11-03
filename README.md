@@ -1,4 +1,4 @@
-# Shopping Behavior Cluster and Predictive Analysis
+# Shopping Behavior Cluster and Predictive Analysis.
  
 ## Table of Contents
 
