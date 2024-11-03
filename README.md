@@ -20,3 +20,19 @@ Average Purchase Amount by State with No Subscription Status Classified by Gende
 ![Average Values of Descriptors by Segment](https://github.com/user-attachments/assets/8046d0d3-36b8-4142-afb1-af7895edd738)
 
 ![Number of Prospects in Each Segment by Gender](https://github.com/user-attachments/assets/688949e3-204d-4045-9920-b174dc7fa9fe)
+
+### Data Sources
+
+Sales Data: The primary Dataset used for this analysis is the shopping_behavior_updated.csv file which contains the following variables: Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases. 
+
+### Tools
+
+- Rstudio
+- Tableau
+   - [Download here](https://public.tableau.com/app/discover)
+
+### Data Analysis
+
+RStudio code/features worked with:
+
+```Rstudio
