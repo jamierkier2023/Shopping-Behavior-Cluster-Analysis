@@ -52,6 +52,9 @@ The analysis of consumer segments reveals key differences in demographics, purch
 
 Gender distribution across segments shows a fairly balanced representation, although Segment 4 again has the largest number of male and female prospects (15,708 male and 7,182 female), indicating a broad appeal across gender lines. This high number of prospects in Segment 4 aligns with its large segment count and high profitability. In contrast, Segments 1 and 7 have lower counts and a younger demographic, which may impact the overall profitability of these segments despite their sizeable sales figures.
 
+![Number of Prospects in Each Segment by Gender](https://github.com/user-attachments/assets/6bbbe90e-647d-4aba-a724-c9303de714fa)
+
+
 ![Average Values of Descriptors by Segment](https://github.com/user-attachments/assets/0ac94e5b-df8e-4256-9eb0-28526bc525cb)
 
 The analysis suggests that targeting older consumers in Segment 4 with high-value promotions could further enhance profitability, while for younger segments like 3 and 1, focusing on value-driven offers or loyalty programs might maximize retention and spending. The segmentation results provide valuable insights for strategic marketing, highlighting distinct consumer profiles that can inform tailored promotional efforts across demographic groups.
