@@ -8,7 +8,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of a Coffee Chain over the course of six months. By analyzing the sales trends according to product type, over the course of six months, I sought to identify trends, make data-driven reccomendations, and gain a deeper understanding of Cafe-Delights-Coffee performance metrics with the end goal of maximizing sales by raising the total revenue by twenty percent.
+This data analysis project aims to predict future shopping behaviors and understand how consumer data can drive retail sales, particularly in the clothing and jewelry sectors. Leveraging IBM Cognos as a cognitive analytics tool, this project focuses on variables like subscription status, gender, past purchase amounts, promotions, and applied discounts. By analyzing consumer data from all fifty states, this exploratory study seeks to generalize findings to inform real-world retail strategies, enabling a deeper understanding of shopping patterns that influence purchasing decisions. The project employs both discriminant and cluster analysis to segment consumers based on attitudes and behaviors. Discriminant analysis, relying on descriptor variables, classifies customers into predefined clusters to reveal key traits that differentiate customer groups. Cluster analysis further defines these segments, grouping similar customers based on preferences and purchasing behaviors. By identifying clear intra-segment similarities and inter-segment differences, this analysis will assist marketers in tailoring strategies for each consumer group, ultimately supporting enhanced, data-driven decision-making in retail.
 
 ---
 
